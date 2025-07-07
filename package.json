@@ -23,5 +23,8 @@
     "semi": false,
     "tabWidth": 2,
     "printWidth": 80
+  },
+  "devDependencies": {
+    "vite-plugin-devtools-json": "^0.2.1"
   }
 }
